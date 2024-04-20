@@ -18,6 +18,7 @@
 <br>
 
 - B.Tech CSE, NIT Trichy
+- upcoming SDE-Intern @ AMAZON
 - Exploring New Stuff
 - Hola Amigo
 
